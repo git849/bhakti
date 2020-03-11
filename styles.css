@@ -1,0 +1,474 @@
+.navbar{
+  background-color: warning;
+  padding: 3% 10%;
+  font-family: "Montserrat-bold";
+  font-size: 110%;
+  height: 90px;
+  word-spacing:  1cm;
+
+}
+
+body{
+  background-image: url("images/bg.jpg");
+
+}
+
+.symbol{
+  padding:0px 3px;
+  margin-top: -25px;
+
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 160%;
+  margin-top: -25px;
+  padding:0px 0px;
+  word-spacing: 2px;
+}
+
+
+
+.center-photo{
+  margin-left: 650px;
+  margin-top: 90px;
+}
+
+.tagline{
+  margin-top: 40px;
+  margin-left: -120px;
+  padding:0px -20px;
+   word-spacing: 2px;
+}
+
+.signup{
+  color: #8B0000;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.box1{
+  margin-left: 530px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  width: 300px;
+  font-size: 18px;
+  background: transparent;
+}
+
+.gap{
+
+  height: 3px;
+  width: 100%;
+}
+
+.box2{
+
+  margin-left: 530px;
+  margin-top: 20px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  width: 300px;
+  font-size: 18px;
+  background: transparent;
+}
+
+form .submit{
+  background-color: yellow;
+  border-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 40px;
+  margin-top: 70px;
+  width: 100px;
+  margin-left: 630px;
+
+}
+
+form .submit:hover{
+  cursor: pointer;
+}
+
+.btn{
+  margin-left: 630px;
+  margin-top: 50px;
+}
+
+.button{
+  color: brown;
+  margin-top: 35px;
+}
+
+
+h1{
+  color: #A52A2A;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.nondani-form{
+  height:1280px;
+  width:900px;
+  background-color: #fffae6;
+  margin-top: 25px;
+  margin-left:230px;
+
+}
+
+.button0{
+  margin-top: 50px;
+  margin-left: -10px;
+}
+
+.vadhu-var-mahiti{
+  height: 30px;
+  width:900px;
+  background-color: #daa520;
+  text-align: center;
+
+}
+
+.complete-name{
+  width:450px;
+  height: 25px;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.vadhu-var{
+  margin-left: 450px;
+  margin-top: -25px;
+  height: 30px;
+  width: 450px;
+}
+
+.janm-dinank{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 450px;
+  height: 30px;
+}
+
+.janm-vel{
+  margin-left: 450px;
+  margin-top: -33px;
+  width: 450px;
+  height: 30px;
+}
+
+.unchi{
+  margin-left: 25px;
+  margin-top: 10px;
+  width: 450px;
+  height: 30px;
+}
+
+.varn{
+  margin-left: 450px;
+  margin-top: -33px;
+  width: 450px;
+  height: 30px;
+}
+
+.shikshan{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 450px;
+  height: 30px;
+}
+
+.shikshan-adhik-mahiti{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.vyavasay{
+  margin-left: 25px;
+  margin-top: 20px;
+  width: 450px;
+  height: 30px;
+}
+
+.vyavasay-adhik-mahiti{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+
+
+.rakt-gat{
+  margin-left: 450px;
+  margin-top: -25px;
+  width: 450px;
+  height: 30px;
+}
+
+.patrika{
+  margin-top: 20px;
+  height: 30px;
+  width:900px;
+  background-color: #daa520;
+  text-align: center;
+
+}
+
+.ras{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 450px;
+  height: 30px;
+}
+
+.nakshtra{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.charan{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 450px;
+  height: 30px;
+}
+
+.nadi{
+  margin-left: 450px;
+  margin-top: -32px;
+  width: 450px;
+  height: 30px;
+}
+
+.birth-city{
+  margin-left: 25px;
+  margin-top: 20px;
+  width: 300px;
+  height: 30px;
+}
+
+.mangal{
+  margin-left: 450px;
+  margin-top: -33px;
+  width: 300px;
+  height: 30px;
+}
+
+.shaikshnik-mahiti{
+  margin-top: 20px;
+  height: 30px;
+  width:900px;
+  background-color: #daa520;
+  text-align: center;
+
+}
+
+.shaikshnik-thikan{
+  margin-left: 25px;
+  margin-top: 20px;
+  width: 300px;
+  height: 30px;
+}
+
+.shikshan1{
+  margin-left: 450px;
+  margin-top: -31px;
+  width: 300px;
+  height: 30px;
+}
+
+.vyavasaik-thikan{
+  margin-left: 25px;
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+}
+
+.utpann1{
+  margin-left: 450px;
+  margin-top: -25px;
+  width: 300px;
+  height: 30px
+}
+
+.patta{
+  margin-top: 10px;
+  height: 30px;
+  width:900px;
+  background-color: #daa520;
+  text-align: center;
+
+}
+
+.pan{
+  margin-left: 30px;
+  margin-top: 10px;
+  width: 450px;
+  height: 30px;
+}
+
+.nivasi-patta{
+  margin-left: 450px;
+  margin-top: -20px;
+  width: 450px;
+  height: 30px;
+}
+
+.mobile1{
+  margin-left: 30px;
+  margin-top: 20px;
+  width: 450px;
+  height: 30px;
+}
+
+.mobile2{
+  margin-left: 450px;
+  margin-top: -25px;
+  width: 450px;
+  height: 30px;
+}
+
+.phone1{
+  margin-left: 30px;
+  margin-top: 12px;
+  width: 450px;
+  height: 30px;
+}
+
+.phone2{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.koutumbik-mahiti{
+  margin-top: 10px;
+  height: 30px;
+  width:900px;
+  background-color: #daa520;
+  text-align: center;
+}
+
+.father{
+  margin-left: 30px;
+  margin-top: 12px;
+  width: 450px;
+  height: 30px;
+}
+
+.vadilanche-nav{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.aai{
+  margin-left: 30px;
+  margin-top: 12px;
+  width: 450px;
+  height: 30px;
+}
+
+.aaiche-nav{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.bhau{
+  margin-left: 30px;
+  margin-top: 12px;
+  width: 450px;
+  height: 30px;
+}
+
+.vivahit-bhau{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.bahini{
+  margin-left: 30px;
+  margin-top: 12px;
+  width: 450px;
+  height: 30px;
+}
+
+.vivahit-bahini{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.vadhuvar-apeksha{
+  margin-top: 10px;
+  height: 30px;
+  width:900px;
+  background-color: #daa520;
+  text-align: center;
+}
+
+.vadhuvar-shikshan{
+  margin-left: 30px;
+  margin-top: 12px;
+  width: 450px;
+  height: 30px;
+}
+
+.nokari-vyavasay{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.varshik-utpann{
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 450px;
+  height: 30px;
+}
+
+.vayatil-anter{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+.shahar-pradhanyata{
+  margin-left: 25px;
+  margin-top: 10px;
+  width: 450px;
+  height: 30px;
+}
+
+.apeksha-mangal{
+  margin-left: 450px;
+  margin-top: -30px;
+  width: 450px;
+  height: 30px;
+}
+
+
+.btt{
+  margin-left: 400px;
+  margin-top: 20px;
+}
